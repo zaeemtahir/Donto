@@ -1,0 +1,33 @@
+/* body {
+  font-family: 'Arial', sans-serif;
+  color: palevioletred;
+  border-color: lightgray;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  border-color: darkgray;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.texts {
+  top: 2px;
+  font-size: 20px;
+  text-decoration: none;
+  color: palevioletred !important;
+}
+.texts:hover {
+  color: lightgray !important;
+} */
+
+.custom-container {
+  max-width: 1500px; /* Set a maximum width for the container */
+}

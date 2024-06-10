@@ -1,0 +1,87 @@
+/* .banner-all{
+    background-color: #004caa;
+}
+.align-items-center:h2{
+    list-style: none;
+    text-decoration: none;
+   
+    color: palevioletred!important;
+    padding-left: 12px;
+    padding-top: 10px;
+    
+    
+}
+.align-items-center{
+    list-style: none;
+    text-decoration: none;
+    background: transparent;
+    color: palevioletred!important;
+
+    
+}
+.text{
+    text-decoration: none!important;
+    background: transparent!important;
+    color: palevioletred!important;
+    border-color: palevioletred!important;
+}
+.text:hover{
+    text-decoration: none!important;
+    background: transparent!important;
+    color:darkslategrey!important;
+  
+}
+.card{
+
+    padding-top: 3px;
+}
+.appointment-card:hover{
+    background-color:palevioletred; 
+    transition: background-color 0.3s ease; 
+    color: darkgray !important;;
+}
+
+.card-body{
+    color: palevioletred;
+}
+.card-body:hover{
+    color:rgb(169, 169, 169);
+    background-color: lightcoral;
+} */
+.appointment-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+  
+  .review-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+.appointment-section {
+    
+    padding: 20px 0; /* Add padding for better spacing */
+  }
+  
+  .custom-container {
+    max-width: 1500px; /* Set a maximum width for the container */
+  }
+  
+  .card {
+    width: 100%; /* Make sure the card takes the full width of its container */
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .appointment-card {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-color: #fff;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+
+  

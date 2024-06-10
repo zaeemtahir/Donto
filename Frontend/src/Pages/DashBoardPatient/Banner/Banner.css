@@ -1,0 +1,19 @@
+/* Updated CSS file with "dashbanner" class names */
+.dashbanner-side {
+  list-style: circle;
+  background: transparent!important;
+  color: blue!important;
+  font-size: 33px!important;
+  padding-left: 10px!important;
+}
+
+.dashbanner-texts:hover {
+  text-decoration: none !important;
+  color: lightgray!important;
+  background: transparent;
+}
+
+.dashbanner-texts {
+  color: palevioletred!important;
+  font-size: 25px;
+}

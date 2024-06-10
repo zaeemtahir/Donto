@@ -1,0 +1,37 @@
+/* Updated CSS file with "dashbanner-" class names */
+* {
+  text-decoration: none;
+}
+.dashbanner-all {
+  background-color: #004caa;
+}
+.profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #fff;
+  margin-top: 10px;
+}
+.dashbanner-side {
+  list-style: circle;
+  background: transparent !important;
+  color: alue !important;
+  font-size: 33px !important;
+  padding-left: 10px !important;
+}
+
+.dashbanner-side h2 {
+  color: #fc5185;
+}
+
+.dashbanner-texts:hover {
+  text-decoration: none !important;
+  color: lightgray !important;
+  background: transparent;
+}
+
+.dashbanner-texts {
+  color: palevioletred !important;
+  font-size: 25px;
+}

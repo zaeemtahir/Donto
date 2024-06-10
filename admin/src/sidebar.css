@@ -1,0 +1,14 @@
+/* Add this to your existing CSS file or create a new one */
+
+#sidebar {
+    transition: transform 0.3s ease;
+  }
+  
+  .sidebar-responsive {
+    transform: translateX(0);
+  }
+  
+  .sidebar-closed {
+    transform: translateX(-100%);
+  }
+  
